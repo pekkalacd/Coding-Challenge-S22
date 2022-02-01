@@ -14,12 +14,12 @@ The dataset that was given was non-numeric. So, the first thing that needed to b
 non-numeric values into distinct numerical identifiers for each column. The most practical way I saw this
 being resolved was to create a mapping for each individual column based on the amount of elements in the set.<br><br>
 
-Once the numerical conversion was handled, the next step was to determine the independent and dependent variables(s).
+Once the numerical conversion was handled, the next step was to determine the independent and dependent variable(s).
 Identifying the independent and dependent variables was made simple, since the prompt was to
 try to train a model to predict whether a mushroom was poisonous or edible, as governed by the actual data in the 'class' column.
 So, I considered the class as the only dependent variable and all other features as independent.<br><br>
 
-With this, I plotted all dependent variables individually against the independent variable using matplotlib,
+With this, I plotted all independent variables individually against the dependent variable using matplotlib,
 to see if a trend could be got by visualization. I saw that aside from a few graphs, a logistic function seemed to fit the plot;
 and if the points' coordinates were inverted, the logit function would fit. Both of these fell under a logistic regression
 ideal. So, I went with that model.<br><br>
