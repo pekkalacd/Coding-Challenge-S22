@@ -1,12 +1,12 @@
 #### Libraries Used<br><br>
-![pandas](https://pandas.pydata.org/docs/reference/index.html)<br>
-![numpy](https://numpy.org/doc/stable/reference/index.html)<br>
-![matplotlib](https://matplotlib.org/stable/api/index)<br>
-![seaborn](https://seaborn.pydata.org/api.html)<br>
-![sklearn](https://scikit-learn.org/stable/index.html)<br>
-![itertools](https://docs.python.org/3/library/itertools.html)<br>
-![collections.abc](https://docs.python.org/3/library/collections.abc.html)<br>
-![typing](https://docs.python.org/3/library/typing.html)<br>
+[pandas](https://pandas.pydata.org/docs/reference/index.html)<br>
+[numpy](https://numpy.org/doc/stable/reference/index.html)<br>
+[matplotlib](https://matplotlib.org/stable/api/index)<br>
+[seaborn](https://seaborn.pydata.org/api.html)<br>
+[sklearn](https://scikit-learn.org/stable/index.html)<br>
+[itertools](https://docs.python.org/3/library/itertools.html)<br>
+[collections.abc](https://docs.python.org/3/library/collections.abc.html)<br>
+[typing](https://docs.python.org/3/library/typing.html)<br>
 <br><br>
 #### Solution Explanation
 <br><br>
